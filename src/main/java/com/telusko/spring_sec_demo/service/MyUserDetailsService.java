@@ -1,5 +1,6 @@
-package com.telusko.spring_sec_demo.dao;
+package com.telusko.spring_sec_demo.service;
 
+import com.telusko.spring_sec_demo.dao.UserRepo;
 import com.telusko.spring_sec_demo.model.User;
 import com.telusko.spring_sec_demo.model.UserPrincipal;
 import org.springframework.beans.factory.annotation.Autowired;
